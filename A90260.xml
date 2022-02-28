@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The souls excellency or, A sweet meditation of the preciousnesse of the soul of man. A subject fit for every man and woman in the world, to fixe their best and choisest thoughts upon: who desire to begin heaven here, and to live with God in heaven for ever. By J.O.</title>
+            <author>J. O.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90260</idno>
+            <idno type="STC">Wing O7</idno>
+            <idno type="STC">Thomason E1189_16</idno>
+            <idno type="STC">ESTC R208303</idno>
+            <idno type="EEBO-CITATION">99867264</idno>
+            <idno type="PROQUEST">99867264</idno>
+            <idno type="VID">119569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The souls excellency or, A sweet meditation of the preciousnesse of the soul of man. A subject fit for every man and woman in the world, to fixe their best and choisest thoughts upon: who desire to begin heaven here, and to live with God in heaven for ever. By J.O.</title>
+                  <author>J. O.</author>
+               </titleStmt>
+               <extent>19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W. at the Star under Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 24 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119569:1" rendition="simple:additions"/>
+            <p>THE SOULS EXCELLENCY: OR, <hi>A ſweet Meditation of the preciouſneſſe of the Soul of Man.</hi> A Subject fit for every man and wo<g ref="char:EOLhyphen"/>man in the world, to fixe their beſt and choiſeſt thoughts upon: who deſire to begin heaven here, and to live with God in heaven for ever.</p>
+            <p>By <hi>J.O.</hi>
+            </p>
+            <q>
+               <p>Onely take heed to thy ſelf, and keep thy ſoul diligently,</p>
+               <bibl>
+                  <hi>Deut. 4 9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Thorns and ſnares are in the way of the froward, but he that keepeth his ſoul ſhall be far from them,</p>
+               <bibl>
+                  <hi>Pro. 22.5</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Fear not them which kill the body, but are not able to kill the ſoul; but rather fear him which is able to de<g ref="char:EOLhyphen"/>ſtroy both body and ſoul in hell,</p>
+               <bibl>
+                  <hi>Matth. 10.28.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. W.</hi> at the <hi>Star</hi> under <hi>Peters</hi> Church in <hi>Cornhill,</hi> 1648.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:119569:2"/>
+            <epigraph>
+               <q>
+                  <bibl>DEUT. 6.7.</bibl>
+                  <p>And thou ſhalt teach them diligently unto thy children, and ſhalt talke of them when thou ſitteſt in thine houſe, and when thou walkeſt by the way, and when thou ſitteſt down, and when thou riſeſt up.</p>
+               </q>
+            </epigraph>
+            <p>
+               <figure>
+                  <figDesc>depiction of a teacher listening to a pupil read aloud in a schoolroom</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119569:3"/>
+            <head>THE SOULS EXCELLENCY, <hi>OR</hi> A ſweet Meditation <hi>OF The preciouſneſſe of the Soul of Man, &amp;c.</hi>
+            </head>
+            <p>POore men and women, yong and old; your manner is to ſooth up your ſelves in your own vain fancies and conceits, of ſome<g ref="char:EOLhyphen"/>thing or other here below; wherein you place a great part of your happineſſe, and upon which you ſet your hearts, and for which you beſtow a great deale of paines and time: And you doe eſteem moſt precious of all things elſe in the world, ye, it is your manner to dote af<g ref="char:EOLhyphen"/>ter theſe low and empty ſhadows as though there were ſome ſuperexcellency in them.</p>
+            <pb n="2" facs="tcp:119569:4"/>
+            <p>When God knows the beſt creature under heaven is but meer vanity, and he that en<g ref="char:EOLhyphen"/>joyes the moſt of it, doth enjoy it but with vexation of ſpirit: and yet poore ſoules you are not willing to be croſt in your haſty purſuit af<g ref="char:EOLhyphen"/>ter them, but run the hazard of ſoul and body, and all to gaine that which is but loſſe; and loſe that which is the greateſt and moſt hap<g ref="char:EOLhyphen"/>pieſt gaine.</p>
+            <p>True it is, that the mighty Creator hath a<g ref="char:EOLhyphen"/>dorned the World with abundance of his works of wonder, and hath made <hi>every thing beautifull in its time,</hi> but yet not comparable, (though all ſet together) with the leaſt glimps of <hi>Gods countenance to the Soule.</hi> Indeed we have a larg book of the creatures in which we may read much of the Creatour, and ſee much of God in, but we have one more neer, and ſhould be more deare unto us then ten thou<g ref="char:EOLhyphen"/>ſand Millions of worlds, were there ſo many; which is our deare and moſt precious ſouls; w<hi rend="sup">ch</hi> is the maſter-piece of the whole Creation.</p>
+            <p>And yet poore people how baſely doe you eſteem of your precious ſouls, that very hardly can you beſtow one houres ſerious meditation upon the peace and welfare of your ſouls in all your life time. Very hardly can you ſpare out of that maſſe of love you have to the world one
+<pb n="3" facs="tcp:119569:2"/>dram of love or pitty to your poore ſouls.</p>
+            <p>O the precious ſoul can no man value, the price of it is beyond any mans reach; and the loſſe of it beyond any mans recovery.</p>
+            <p>You rich Merchants that fetch your trea<g ref="char:EOLhyphen"/>ſures from far and finde out the treaſures hid in the ſand, and bowels of the earth; did you ever amongſt all your rich jems and precious pearls and coſtly ſtones; finde out any thing to counterpoyſe the ſoul: can all your treaſures laid together ranſome one poore ſoul from deſtruction?</p>
+            <p>No, here the whole Creation muſt be ſilent; the ſoul is beyond all, nothing is found in them to be compared to the ſoul, S<hi rend="sup">t</hi>. <hi>Auguſtine</hi> ſayth, <hi>One ſoule is worth a thouſand bodies;</hi> what are ten thouſand bodies to one ſoul?</p>
+            <p>The body is of much worth, but in compa<g ref="char:EOLhyphen"/>riſon of the ſoul, ten thouſand bodies are worth nothing, they differ as much as fleſh and ſpirit, as light and darkneſſe, as heaven and earth; and why not as much as heaven and hell? what are ſo many bodies without the ſoul but ſo many ſtinking carions, and lothſom dungeons: S. <hi>Auguſtine</hi> is ſo bold as to ſay, <hi>that the ſoul of a flye is of more excellency then the glorious Sun in the firmament;</hi> of what worth and excellency is the ſoul of man, then
+<pb n="4" facs="tcp:119569:3"/>think you? ô moſt precious ſoull what may be compared to thee? ſurely nothing, come down to the duſt all things in the world then in compariſon of the ſoul.</p>
+            <p>Stand by on the left hand, or ſit down at my footſtool, all you creatures, yea, the beſt of creatures, yea, the very heavens, with all their glorious ornaments, the Sunne, Moon, and Stars, with all the Coeleſtiall bodies; the earth with all her wonders, mountains and valleys, pleaſant medows and woods, fruitfull trees, birds, beaſts, ſheep, oxen, lambs, and horſes, little or great beaſts, or curious fowls, with all the ſeas admirable wonders, gold, ſilver, precious ſtones, and what ever the heart of man can conceive to be moſt beautifull and glorious; ſtand by all pleaſures beauty; riches, honours, wiſdome, learning, Arts and Scien<g ref="char:EOLhyphen"/>ces, Kingdoms or Empires, yea, all that is on this ſide heaven, all created excellencies what<g ref="char:EOLhyphen"/>ſoever, I ſay, If I were Lord Paramount of all theſe, had them all at my command, what is all this to my precious immortall ſoul? true, I may ſay with <hi>David,</hi> Pſal. 104.24, 25. <hi>O Lord, how manifold are thy works? in wiſdome haſt thou made them all, the earth is full of thy riches, ſo is the Sea alſo great and wide &amp;c.</hi> But what is all this tome, if I loſe my precious
+<pb n="5" facs="tcp:119569:5"/>ſoul? My ſoul, my ſoul, is more precious than all theſe.</p>
+            <p>The ſoule is all in all to us, ſayth <hi>Tertullius, The ſoule is a little demi-god or Angell,</hi> many have ſo called it, ſayth <hi>Clemens Alexandrinus,</hi> the ſoul is a part of heaven, ſayth <hi>Hipparchus.</hi>
+            </p>
+            <p>The ſoule is the <hi>Idea and Sampler of all the world,</hi> for excellencie and worth, ſayth <hi>Paphi<g ref="char:EOLhyphen"/>nous,</hi> and what can be ſayd more to ſet forth the excellencie of the precious ſoule.</p>
+            <p>Yea, farther, <hi>Plato is of opinion that the ſoul is next in degree to the eternall God of Heaven and earth.</hi> Alas, then, what will it profit a man though hee win the whole world, and loſe his own ſoul? <hi>Mat.</hi> 16.26. The very Angels and Archangels, the Cherubins and Seraphins, and all the powers of heaven are not ſo deare to us as our own ſouls be; alas, if we loſe our ſouls, what are all they to us?</p>
+            <p>The ſoul then it ſeemes is a very precious piece, nothing in the whole Creation ſo pre<g ref="char:EOLhyphen"/>cious, Oh! what heart is able to think or con<g ref="char:EOLhyphen"/>ceive the excellency of the ſoul?</p>
+            <p>The ſoul is the beſt thing in the world, were there as many worlds as there be ſands on the ſea ſhore: as many as the Epicureans <hi>Diog: Laert:</hi> thought, infinite of worlds, what could all theſe profit if we ſhould loſe our ſouls.</p>
+            <pb n="6" facs="tcp:119569:6"/>
+            <p>Oh! what fools and mad men are we to ſlight our precious ſouls, to prefer a baſe luſt before the precious ſoul; to take more pains, coſt and care about our poore fraile periſhing bodies a lump of clay, then about our moſt deare and precious fouls, our eternall ſouls.</p>
+            <p>The ſoul is the wonder of wonders, as the <hi>Philoſopher</hi> cals it, &amp; ſo it is, ſaith <hi>David, I am fearfully and wonderfully made;</hi> what tongue can expreſſe, or heart conceive, the excellency and worth of the ſoul?</p>
+            <p>Shall we then ſpend no time to think and meditate of this choyſe piece, the immortall ſoul? ſhall we be continuall drudges and ſlaves to theſe vile bodies, and doe nothing for the ſoul? ſhall we feed, pamper, and clothe and adorn the body and let the ſoul ſtarve and pe<g ref="char:EOLhyphen"/>riſh? ſhall we be ſo nice and choyce, and cir<g ref="char:EOLhyphen"/>cumſpect about our bodies, that there may not be a pin amiſſe, and ſhall the ſoul in the mean time goe naked and bare, languiſh and pine a<g ref="char:EOLhyphen"/>way, and no care be taken for it? or can the ſoul live and ſubſiſt in a ſpirituall way with<g ref="char:EOLhyphen"/>out ſpirituall food and clothing ô! no, no, dear friends, be not deceived, the ſoul muſt have ſpi<g ref="char:EOLhyphen"/>rituall proviſion, as the body hath temporall, or it will ſtarve and periſh for ever (for ever) a ſad word: as once a dying man ſaid (thinking
+<pb n="7" facs="tcp:119569:4"/>ſeriouſly what he was to doe; that die he muſt) ô! this word for ever is a ſad word to me, if it were not for that word forever; how well would it be for me.</p>
+            <p>O the moſt excellent dear and precious ſoull what ſhall I ſay of thee thou eternall ſoul (I had like to a ſaid infinite ſoul) true it is the ſoul is not infinite but though it be not, yet may it be Amplified in the extent of its facul<g ref="char:EOLhyphen"/>ties, on and on infinitely, ſaith the School, <hi>In infinitum, Thom. Aquin.</hi>
+            </p>
+            <p>And ſeeing then the ſoul is ſo great a mat<g ref="char:EOLhyphen"/>ter, the <hi>Horizon</hi> of the viſible and inviſible world, ſayth <hi>Aquinas,</hi> ſhall we not ſet a high value upon the ſoul, ſhall we run the hazard of eternall ruine of the ſoul for toyes, ſhadows, impoſtures, vanities and empty lyes; for ſo be all things in the world in regard of our moſt precious ſouls: ye lyes, bubbles, vanities, emp<g ref="char:EOLhyphen"/>ty vanities, ye, lighter then vanity it ſelf; and not worthy to be ſpoken off, in regard of the ſoul.</p>
+            <p>You that would take a ſerious ſurvey of the ſouls excellency, to purpoſe, ſo as to prize it in a ſpirituall way; yea, and to melt at the very heart and tremble at the loſſe and ruine of the ſoul, or highly to prize <hi>Divine grace,</hi> conſi<g ref="char:EOLhyphen"/>der ſeriouſly:</p>
+            <pb n="8" facs="tcp:119569:5"/>
+            <p>Firſt, the ſin of the ſoul is ſo great as no tongue can expreſſe the greatneſſe of it; as the Apoſtle ſayth, <hi>Rom.</hi> 5.12. <hi>Wherefore, as by one man ſin entered into the world, and death by ſin, &amp;c.</hi> Conſider well, that ſin was not barren, neither did it enter into the world alone, but death followes cloſe at the heeles of ſin, not barely the death of the body, but that which is far greater, the death of our moſt precious and immortall ſouls: ſo that the moſt godly man or woman in the world may juſtly cry out with <hi>Paul, O wretehed man that I am, who ſhall deliver me, &amp;c.</hi> Yea, and ſin though it came by one man, and that but one ſin, only the breach of one Commandement yet is mul<g ref="char:EOLhyphen"/>tiplyed on and on to ſuch an infinite number<g ref="char:EOLhyphen"/>leſſe number, that paſſes the skill of the beſt <hi>Arithmetician</hi> in the world to ſum up the to<g ref="char:EOLhyphen"/>tall of them; conſider farther the nature of the leaſt ſin, is to damne the poore ſouls in hell, and that for no leſſe time but for eternity; woe to my precious ſoul, then if God ſhould charge but one of my leaſt ſinnes, though but a thought, upon it; I might cry out undone, undone, for ever; if one ſin be ſo great and the curſe and puniſhment of unexpreſſible and unſufferable, what may be ſaid of all thoſe Millions of Millions of ſins which one poore
+<pb n="9" facs="tcp:119569:7"/>ſoul ſtands guilty of: who ſhall be able to undergoe the wrath of God? <hi>Iſa.</hi> 33.14. <hi>Who among us ſhall dwell with devouring fire? who among us ſhall dwell with everlaſting burnings?</hi>
+            </p>
+            <p>Secondly, the loſſe of the ſoul is unrecovera<g ref="char:EOLhyphen"/>ble, it is the greateſt loſſe in the whole world, the loſſe of health, friends, goods, lands, ho<g ref="char:EOLhyphen"/>nours, good name, or any other things, ye, life It ſelfe is in compariſion of the ſoul, rather to be accounted gaine then loſſe; though it be a great loſſe if theſe and all that might be named ſhould light upon man, yet all this is nothing to ſin: if all the evill of puniſhment ſhould fall upon one man, ye, all that hath befallen the whole race of mankind, yet all this were no<g ref="char:EOLhyphen"/>thing to the evil of ſin, theſe could only hurt the body; but ſin endangers the ſoul, and ma<g ref="char:EOLhyphen"/>ny times damnes the ſoul forever.</p>
+            <p>Nothing can defile the ſoul but ſin, ſin is the plague of the ſoul, it infects where ever it comes, it is the leproſie of the ſoul, it ſpreads it ſelf over all the powers and faculties of the ſoule: ſin is the Canker of the ſoul, it frets out every grace; ſin is the <hi>Gangreen</hi> of the ſoul, it muſt be cut off: or it proves, <hi>Noli me tangere,</hi> and kils the ſoule; no danger to the danger of ſin, no loſſe to the loſſe of the ſoule, all gain is loſſe with a witneſſe if the ſoul loſt
+<pb n="10" facs="tcp:119569:8"/>for earthly gain: <hi>What advantage will it be for a man to gain the whole world, and loſe his own ſoule, Matth.</hi> 16.26.</p>
+            <p>Laſtly, conſider, the excellency of the ſoule appears chiefly, in the ranſome and price that was paid to redeem it from eternal wrath and miſery, it was no ſmall price; this argues the ſoule to be a moſt famous and excellent piece, that when by ſinne it lay expoſed to eternal wrath, and miſery; there could be none in heaven nor earth found to ſatisfie <hi>Divine Ju<g ref="char:EOLhyphen"/>ſtice,</hi> nor to make an <hi>Attonement,</hi> but the <hi>Lord Jeſus Chriſt</hi> muſt come down from Hea<g ref="char:EOLhyphen"/>ven, and lay down his life to ranſome the ſoul; nothing leſſe then, then the bloud of Chriſt will ſerve to ranſome the ſoul. <hi>Will the Lord be pleaſed with thouſands of Rams, or with ten thou<g ref="char:EOLhyphen"/>ſand rivers of oile? ſhall I give my firſt born for my tranſgreſſion, even the fruit of my body; for the ſin of my ſoul? Mich.</hi> 6.7. No, this will not doe, it muſt be the bloud of the Lamb <hi>(Chriſt Jeſus)</hi> ſlaine from the foundation of the world; ſo precious is the ſoul, the bloud of Buls Goats, and Lambs, &amp;c. Will not ſerve turn. O moſt precious ſoul, what is there under heaven to be compared to thee? the ſoul, the ſoul; ſhall I hazard my ſoul for a pin, for a trifle, for a ſhadow, for in compariſon of the
+<pb n="11" facs="tcp:119569:6"/>ſoul all created excellency whatſoever are lighter than vanity it ſelfe.</p>
+            <p>
+               <hi>You worldlings,</hi> that take ſo much paines rooting in the world to joyn houſe to houſe and land to land till there be no place, (for the poore to dwell by you) that you may be placed by your ſelves in the midſt of the earth, <hi>Eſay.</hi> 5.8. <hi>Woe unto you, ſayth the Lord of Hoſts;</hi> Let me tell you, your gain is like to eternall loſſe with a witneſſe, if you exchange earth for heaven, gaine the world and loſe your precious ſouls: O! my dear friends, be warned betimes, and make all your worldly employments and your temporall gaine to be ſuborinate to the eternall peace of your ſouls, make not earthly imployments, heavenly im<g ref="char:EOLhyphen"/>pediments, uſe the world no more then may make you more fit for the ſpirituall welfare of your Noble and moſt precious ſouls.</p>
+            <p>
+               <hi>Woe to you Drunkards, ver.</hi> 11. that can riſe early to follow drunkenneſſe, and to you that continue till night, till the wine inflames you; it will be a ſad bargain to you if you drink away your ſouls, and while you drownd your eſtates, and your wits, and health, you drownd your poor ſouls in the bottomleſſe gulfe of hell.</p>
+            <p>
+               <hi>Woe to you that draw iniquity with cords of vanity, and ſin as with cart ropes,</hi> ver. 18. ſurely
+<pb n="12" facs="tcp:119569:7"/>it will goe ill with you one day, if you for the profit or pleaſure of your ſin loſe your ſouls: O, my beloved, ſet a greater prize upon the ſoule, then to ſin away the eternall bleſſedneſſe of your ſouls.</p>
+            <p>
+               <hi>Woe to you who ever you be, that call evill good, and good evill, that put darkneſſe for light, and light for darkneſſe, ver.</hi> 20. <hi>&amp;c.</hi> Will you thus flatter away the happineſſe of your im<g ref="char:EOLhyphen"/>mortall ſouls? ô poor people! what will you doe, if you loſe your ſouls?</p>
+            <p>
+               <hi>Woe to you that are wiſe in your own eyes, ver.</hi> 21. <hi>&amp;c.</hi> your wiſdome is but folly and madneſſe, how many be there that thinke if they have but wiſdome enough to drive on an earthly deſigne, to be skilfull in trading, or in Arts and Sciences, or the like, thinke them<g ref="char:EOLhyphen"/>ſelves happy enough, though they be as igno<g ref="char:EOLhyphen"/>rant for their ſouls as the beaſt, and is not the greateſt number of poor mankind in this con<g ref="char:EOLhyphen"/>dition? and yet poor creatures, tell them but of their groſſe ignorance, they will be ready to fly in your face and tell you, they know as much as you can teach them, and they are as wiſe as your ſelfe, and they ſcorne to live ſo long in the world, to be taught what is good for their ſouls now, and the like, but alas, all this while the Holy Ghoſt tels them, they be
+<pb n="13" facs="tcp:119569:8"/>but fools, or at the beſt, there is more hope of a fool then ſuch a man, <hi>Prov.</hi> 26.12. And the ſame ſpirit of God tels you what you get by reproving ſuch, <hi>Prov.</hi> 9.7, 8. alas, poor crea<g ref="char:EOLhyphen"/>tures, will you not pitty your own ſouls? I pitty you, and oh that you would but pitty your ſelves.</p>
+            <p>Truly the moſt men take more care for their beaſts, a horſe, an oxe, a ſheep, a hog, or a good dog then for their ſouls; nay, they take more care for their old ſhoos then for their ſouls, for a pigg or a gooſe then their ſouls, for a cup of ale, or a piece of bread, then for their dear and precious ſouls: nothing ſo baſe and inferiour under the Sunne, but it is looked af<g ref="char:EOLhyphen"/>ter with far greater pains, diligence, and in<g ref="char:EOLhyphen"/>duſtry, then the immortall ſoul, any thing for back or belly more then for the ſoule; hence it is that men are ſo glad to heare that the ſoule dies with the body, that it is not immortall; and ſome, that's there no ſuch thing as a day of judgement, or a heaven, or a hell, that the Scriptures are but mens inventions, that threat<g ref="char:EOLhyphen"/>nings are but bug-bears to keep men in awe; and a thouſand ſuch things as thoſe, that ſo they may more ſafely and ſecurely ſinne away their precious time without any thoughts of the hazard and loſſe of the ſoule therefore they can put far from them the evill day, and make a jeſt of ſinne.</p>
+            <pb n="14" facs="tcp:119569:9"/>
+            <p>But theſe men ſhall be no preſident for me to walke by, ſeeing the ſoule is ſo precious, and the loſſe of it ſo irrecoverable, the price of it ſo great, and happineſſe of it ſo full of <hi>joy un<g ref="char:EOLhyphen"/>ſpeakable and full of glory:</hi> Worldlings take your fill, eat drink, get you riches and honours, yea, fill your ſelves brimfull with whatſoever the world can afford you, but let not me taſte of your delicates, ô my ſoule, my ſoule is ten thouſand times more precious to me, and ſo much the more precious, becauſe it was bought with the precious bloud of the Lord Jeſus Chriſt for whom <hi>I account all things loſſe, and doe judge them to be dung that I may winne Chriſt, and might be found in him, &amp;c. Phil.</hi> 3.7, 8, 9. this makes my ſoule leap for joy.</p>
+            <p>My body is from the earth, my ſoule from heaven, woe is me, if for tranſitory profit or pleaſure, or honour, or the like, I ſhould loſe my own ſoul.</p>
+            <p>Farewel, the world then, there's nothing in thee that can ſatisfie my ſoul; welcome Chriſt Jeſus, in whom ſatisfaction is made in abun<g ref="char:EOLhyphen"/>dance: Farewell all earthly pleaſure, and trea<g ref="char:EOLhyphen"/>ſure, my treaſure is in heaven, there lye all my comforts, there will I treaſure up my ſoule, where Chriſt my treaſure is, Lord Jeſus, thou art my ſouls refuge, my ſoule is ſo much the
+<pb n="15" facs="tcp:119569:9"/>more precious becauſe it is in thy keeping, and no man or devill can take it out of thy hands.</p>
+            <p>Shall the pleaſure or profit of ſin carryme headlong to deſtruction? ſhall I hazard my precious ſoule for honour, caſe, or preferment? ſhall my own will be my law, or my own o<g ref="char:EOLhyphen"/>pinion my rule? ſhall I embrace every falſe principle in Religion, and drinke in every un<g ref="char:EOLhyphen"/>ſound Tenent, and dangerous and damnable Doctrine that the world ſwarms with in theſe dayes, to the ruine of my ſoule? No, my ſoul coſt more then ſo; the precious bloud of Chriſt was not thought too deare for to redeem my ſoule and ſhall I caſt it away for a ſtraw or a pin?</p>
+            <p>Beloved, you ſee how precious a piece the ſoul is, but you have but a ſmall glimpſe of it at a little crevice, the worth and excellency of the ſoul appears not in open view now, while we are in this earthly tabernacle; but here we ſee all things darkly as in a glaſſe, but the beauty and excellency ſhal be moſt ſplendent, when corruption hath put on incorruption.</p>
+            <p>But, I ſay, thrice happy are you if you now at laſt will reſolue to ſtudy the ſafety and eter<g ref="char:EOLhyphen"/>nall welfare of your precious ſouls, neglect no opportunity to do your ſouls good.</p>
+            <p>Beſides, conſider what hath been ſaid. Death gives no warning; <hi>As ſoone comes a
+<pb n="16" facs="tcp:119569:10"/>Lambes skin to the market as an old ſheeps,</hi> it is an old Proverb, which we ſee daily verified: Carry this paper daily in your pocket, and the meditation thereof daily in your hearts, and think of that dreadful ſound, <hi>Ariſe yee dead, and come to judgment.</hi>
+            </p>
+            <p>Conſider alſo the longeſt day hath his night, and <hi>Methuſalem,</hi> had his period, and our lives are compared to things of the ſwift<g ref="char:EOLhyphen"/>eſt motion, and ſhorteſt continuance; he that hath paſſed many yeares, and purchaſed little profit, hath had a long being, and a ſhort life, for life is more to be meaſured by well doing, then by the number of yeares; ſeeing that men, yee the moſt of men by many dayes doe procure many deaths; and others in a ſhort ſpace attaine to the life of infinite ages.</p>
+            <p>Conſider that the body without the ſoul is but a corrupt carkaſſe, and the ſoul without God, is but a Sepulcher of ſin.</p>
+            <p>Daily ſtudy God in Chriſt, get better ac<g ref="char:EOLhyphen"/>quaintance with him, it will make thee happy in thy ſoul, in thy body, in thy family, in thy calling, he that hath Chriſt ſhall be a gainer by all things; life, long or ſhort; is gaine, riches or poverty is gaine, proſperity, or ad<g ref="char:EOLhyphen"/>verſity is gaine, liberty, or impriſonment is gaine; good report, or evill report is gaine, ho<g ref="char:EOLhyphen"/>nour, or diſhonour is gaine. What poore ſoul
+<pb n="17" facs="tcp:119569:10"/>is there in this wide world that would not trade in ſuch a commodity that brings in all gaine, and no loſſe. O my deare ſoul, ſoare up daily in Communion with <hi>Jeſus Chriſt who is thy true and perfect gaine.</hi>
+            </p>
+            <p>Laſtly, Conſider that all we doe while we live in this vail of teares is, or ſhould be for e<g ref="char:EOLhyphen"/>ternity, and we hazard the ruine of our poore and precious ſouls, for eternity; we would count that man a very foole, and worthy to beg his bread, that having faire demeanes, and a rich trade that would bring him in thou<g ref="char:EOLhyphen"/>ſands, and with all, a time limited to enjoy it, and after the end of that terme he muſt be turned out of all, only to live upon what he had formerly gained and treaſured up; or elſe ſtarve and periſh: Now if this man ſhould ſquander away his time, waſt his demeanes, ſpend up his ſtock, run himſelfe into an unre<g ref="char:EOLhyphen"/>coverable debt, and at a certaine day be turned out of all naked, and miſerable; truly few or none would pitty him.</p>
+            <p>But poore creatures it is ſo with the greateſt part of the world, the Lord hath given us a limited time here in this world, great de<g ref="char:EOLhyphen"/>meanes, and a rich trade that would bring in Millions, and ten thouſand Millions, that is, he hath given us his glorious Goſpel, which daily reveals more and more, of that ineſteem<g ref="char:EOLhyphen"/>able
+<pb n="18" facs="tcp:119569:11"/>treaſure, <hi>Jeſus Chriſt,</hi> here's treaſure in<g ref="char:EOLhyphen"/>deed! Oh, my friends, trade apace for your ſouls, for what is all this continuance of Goſ<g ref="char:EOLhyphen"/>pel, and Goſpel opportunities, and offers of grace, yea, free grace, and eternall ſalvati<g ref="char:EOLhyphen"/>on? but for thee who ever thou art, to trade in, for thy ſpirituall advantage. Now, wo unto thee if thou ſquander away thy time, and waſt thy rich treaſures and dye an unrecover<g ref="char:EOLhyphen"/>able, nay, an eternall begger. But thou mayſt gather honey while ſome laſteth, harken to the voyce of Chriſt while he calls, lay hold upon him, take him on his own termes, <hi>Iſa.</hi> 55.1. <hi>Ho, every one that thirſteth come ye to the wa<g ref="char:EOLhyphen"/>ters, and he that hath no money: come yee, buy and cat, ye come, buy oile and milk without mo<g ref="char:EOLhyphen"/>ney and without price.</hi> Here is Chriſt freely ten<g ref="char:EOLhyphen"/>dered with all his graces, and this is your feed-time, he that expects to reap the benefit of a fruitfull harveſt, muſt not ſow Teares, and Thiſtles, for ſuch as a man ſoweth, ſuch ſhall he reap. And he that lives under Goſpell diſ<g ref="char:EOLhyphen"/>ſpenſations and will continue in unbeliefe, drudging for the Devill all his dayes, let him expect ſuch a harveſt at the end of his life.</p>
+            <p>Friends, in the concluſion let me mind you of one thing that <hi>England</hi> is now ſenſible enough of at this day, in a temporall way, which is that we live in a hard and pining time, many
+<pb n="19" facs="tcp:119569:11"/>thouſands languiſh under bodily ſcarſity: let me tell you, you have loathed heavenly Man<g ref="char:EOLhyphen"/>na, and willingly ſtarved your precious ſouls, and I muſt tell that it is juſt with the Almigh<g ref="char:EOLhyphen"/>ty to ſtarve your bodies firſt, and then to de<g ref="char:EOLhyphen"/>ſtroy both, but that his mercie is very large, and he is unwilling to deſtroy a people that do not willingly refuſe to come in unto him.</p>
+            <p>Theſe unquiet hard times, ſhould now put us upon making proviſion for the ſafety of our ſouls, and I hope, it wil be your chiefeſt work, if you have any care of them; you know not, the youngeſt of you, how neer an end your day is, make haſte, as death leaves you judge<g ref="char:EOLhyphen"/>ment ſhall finde; let this comfort every poor ſoul, that you can never be ſo willing to receive the Lord Jeſus, as he is to embrace you, if you will but lay down the Arms of rebellion and come in unto him, therfore now whilſt he ſaith, <hi>Seeke my face,</hi> ſay thy <hi>face, Lord will I ſeeke;</hi> and when he ſaith, <hi>Come unto me all yee that are weary, &amp;c.</hi> Say, <hi>Come Lord Jeſus come quickly, a day in the houſe is better then a thou<g ref="char:EOLhyphen"/>ſand, &amp;c. My ſoule longeth, yea, even fainteth for the courts of the Lord, &amp;c. What will it pro<g ref="char:EOLhyphen"/>fit a man though he win the whole world, if he loſe his own ſoule.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
